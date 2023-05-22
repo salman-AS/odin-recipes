@@ -1,0 +1,40 @@
+h1 {
+    color: black;
+    letter-spacing: 5px;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    font-style: oblique;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    color: black;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-style: wavy;
+}
+html {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul, ol {
+    line-height: 2;
+    list-style-type: circle;
+}
+ol {
+    list-style-type: decimal;
+}
+h3 {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-style: solid;
+}
