@@ -20,10 +20,6 @@ h2 {
     text-decoration-thickness: 2px;
     text-decoration-style: wavy;
 }
-html {
-    background-color: blanchedalmond;
-    font-family: Arial, Helvetica, sans-serif;
-}
 ul, ol {
     line-height: 2;
     list-style-type: circle;
@@ -37,4 +33,12 @@ h3 {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-decoration-style: solid;
+}
+div {
+    margin: auto;
+    width: 75%;
+}
+html {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
 }
